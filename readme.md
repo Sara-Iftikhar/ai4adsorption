@@ -39,6 +39,7 @@ https://doi.org/10.1016/j.seppur.2023.124891
 
 If you use this work in your research, consider citing it using following 
 BibTeX entry
+
 ::
     @article{iftikhar2023artificial,
       title={Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials},
