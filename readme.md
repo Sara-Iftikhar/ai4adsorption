@@ -32,3 +32,19 @@ important for model prediction. The SHAP dependency analysis was further applied
 To replicate the experiments, you need to install all requirements given in requirements file . If your results are quite different from what are presented here, 
 then make sure that you are using the exact versions of the libraries which were used at the time of running of these scripts. These versions are given printed at 
 the start of each script. Download all the .py files in the scripts including utils.py file. The data is expected to be in the data folder under the scripts folder.
+# Paper
+Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials
+
+https://doi.org/10.1016/j.seppur.2023.124891
+
+If you use this work in your research, consider citing it using following BibTeX entry
+::
+@article{iftikhar2023artificial,
+  title={Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials},
+  author={Iftikhar, Sara and Zahra, Nallain and Rubab, Fazila and Sumra, Raazia Abrar and Khan, Muhammad Burhan and Abbas, Ather and Jaffari, Zeeshan Haider},
+  journal={Separation and Purification Technology},
+  volume={326},
+  pages={124891},
+  year={2023},
+  publisher={Elsevier}
+}
