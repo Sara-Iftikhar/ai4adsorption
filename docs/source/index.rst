@@ -83,13 +83,13 @@ https://doi.org/10.1016/j.seppur.2023.124891
 
 If you use this work in your research, consider citing it using following 
 BibTeX entry
-```bibtex
-@article{iftikhar2023artificial,
-      title={Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials},
-      author={Iftikhar, Sara and Zahra, Nallain and Rubab, Fazila and Sumra, Raazia Abrar and Khan, Muhammad Burhan and Abbas, Ather and Jaffari, Zeeshan Haider},
-      journal={Separation and Purification Technology},
-      volume={326},
-      pages={124891},
-      year={2023},
-      publisher={Elsevier}
-}
+::
+    @article{iftikhar2023artificial,
+          title={Artificial neural networks for insights into adsorption capacity of industrial dyes using carbon-based materials},
+          author={Iftikhar, Sara and Zahra, Nallain and Rubab, Fazila and Sumra, Raazia Abrar and Khan, Muhammad Burhan and Abbas, Ather and Jaffari, Zeeshan Haider},
+          journal={Separation and Purification Technology},
+          volume={326},
+          pages={124891},
+          year={2023},
+          publisher={Elsevier}
+    }
